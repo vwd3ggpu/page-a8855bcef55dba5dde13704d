@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6b03eb83893dc8d97170acc5",
+  "owner": "vwd3ggpu",
+  "repo": "page-a8855bcef55dba5dde13704d",
+  "title": "Rabbit",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a8855bcef55dba5dde13704d",
+      "a": "Rabbit",
+      "b": "稳定全球clash加速器",
+      "entity": "Rabbit",
+      "brand": "Rabbit",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7f415f91a7b48b066bb46b3b27f39e78c09b84302e2a60316951578ae5e64d9e",
+      "content": {
+        "primary_entity": "Rabbit",
+        "keyword1": "Rabbit",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，Rabbit 以 Clash 订阅为核心，把跨境访问拆成可选的节点线路和清晰的套餐档位。基础版适合轻量浏览，旗舰版覆盖 5 台设备与 IPLC 专线，团队版面向多设备协作。按年度订阅能摊薄月费，套餐对比后按设备数量与流量需求决定档位即可。",
+          "AI_HERO_SUBTITLE": "Rabbit 订阅按需选档",
+          "AI_HERO_INTRO": "Rabbit 提供 Clash 订阅服务，按流量和设备数量划分基础版、旗舰版与团队版。订阅导入后即可在支持 Clash 的客户端中使用，节点线路按套餐区分，年度付费方案把月均成本压得更低。",
+          "AI_VISUAL_TITLE": "Rabbit 套餐与节点速览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年度订阅降低月均成本",
+          "AI_FEATURES_TITLE": "Rabbit 的功能与订阅方式",
+          "AI_FEATURES_INTRO": "从套餐档位、设备规模到计费周期，Rabbit 把选择项摆在一起，方便按实际使用场景决定。",
+          "AI_FEATURE_TITLE_1": "套餐按设备数分档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用终端数量匹配档位。",
+          "AI_FEATURE_TITLE_2": "流量与线路对应",
+          "AI_FEATURE_TEXT_2": "每月 100GB 到 1000GB 不等，旗舰版与团队版提供更高带宽节点池。",
+          "AI_FEATURE_TITLE_3": "年度付费更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，按月折算低于月付价格。",
+          "AI_CLIENTS_TITLE": "按设备选 Clash 客户端",
+          "AI_CLIENTS_INTRO": "不同系统有对应的 Clash 客户端，安装后导入 Rabbit 订阅即可使用。",
+          "AI_PLANS_TITLE": "Rabbit 套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。按设备数量和月流量挑选即可。",
+          "AI_GUIDE_TITLE": "Rabbit 订阅配置三步",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，按设备环境完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "按设备数量与月流量需求，在基础版、旗舰版和团队版之间选定档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与所选 Clash 客户端版本，核对同时在线设备上限。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "依照所用客户端文档，把 Rabbit 订阅地址添加进配置并更新节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "Rabbit 订阅按需起步",
+          "AI_CLOSING_TEXT": "对照设备数量与流量档位，选好套餐后即可按客户端文档导入使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。统计的是同时在线设备数，可在客户端设置中查看当前连接数。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。流量按月重置，超出后当月无法继续使用，可在账户中心升档。",
+          "AI_FAQ_ANSWER_3": "可以。旗舰版提供 IPLC 专线节点，对延迟敏感的游戏和实时通信做了路由优化，适合主机与手游加速场景。",
+          "AI_FAQ_ANSWER_4": "月付与年付均可。年付按 ¥150/年、¥350/年、¥850/年结算，相当于节省两个月费用，适合长期使用。",
+          "AI_FAQ_ANSWER_5": "在客户端选择导入订阅，粘贴购买后获得的订阅地址，保存后更新节点列表即可。不同客户端操作略有差异，可参考对应文档。",
+          "AI_FAQ_QUESTION_1": "一个账号能同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "各套餐的月流量上限是多少？",
+          "AI_FAQ_QUESTION_3": "旗舰版适合玩游戏吗？",
+          "AI_FAQ_QUESTION_4": "支持年付吗，价格怎么算？",
+          "AI_FAQ_QUESTION_5": "如何在客户端导入订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mgzzknf.cn",
+    "host": "mgzzknf.cn"
+  },
+  "file_hashes": {
+    "index.html": "cd738debfe5eb18c68b04dd5a21c20d2988f8cf111ad06954edfbfd850a54792",
+    "sitemap.xml": "40bb6840a8a2c3909c83b6537908779937f12f1ef7931553231558c7403a23de",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "121bee2d531999939f8fca0fd2a4d05075cd2464ead8acb27b5cc19181206be8",
+    "robots.txt": "162bc35f9fcccb4916d3a15c278b31bc3c580e1a864a21ed4e25953042fe661d",
+    "f588e1461b59ca707109bb6929c4c9c4.txt": "795878ed17b7c3a4f785c67ad7790bd87a26f6c9c3f0aa388a0d05dfa8b70dee"
+  },
+  "revision": "cbdfb78977460ff774eae23ed8f2e29aa8c08fa9dc98fc0e64a40d25b541bdac"
+}
